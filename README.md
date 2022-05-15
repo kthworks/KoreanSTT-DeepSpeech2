@@ -30,7 +30,7 @@ CER : 0.2536
 ### Prerequisites
 Numpy: ```pip install numpy```  
 Torch: You can install from [here](https://pytorch.org/get-started/locally/) to suit your environment.    
-Torchaudio: ```pip install torchaudio==0.6.0```  
+Torchaudio: ```pip install torchaudio```  
 Matplotlib: ```pip install matplotlib```  
 Librosa: ```conda install -c conda-forge librosa```  
 Speech_recognition: ```pip install speech_recognition```  
