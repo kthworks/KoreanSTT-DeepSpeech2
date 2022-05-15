@@ -28,12 +28,12 @@ CER : 0.2536
 ## 3. How to use?
 
 ####Prerequisites
-Numpy: ```pip install numpy```
-Torch: You can install from [here](https://pytorch.org/get-started/locally/) to suit your environment.  
-Torchaudio: ```pip install torchaudio==0.6.0```
-Matplotlib: ```pip install matplotlib```
-Librosa: ```conda install -c conda-forge librosa```
-Speech_recognition: ```pip install speech_recognition```
+Numpy: ```pip install numpy```  
+Torch: You can install from [here](https://pytorch.org/get-started/locally/) to suit your environment.    
+Torchaudio: ```pip install torchaudio==0.6.0```  
+Matplotlib: ```pip install matplotlib```  
+Librosa: ```conda install -c conda-forge librosa```  
+Speech_recognition: ```pip install speech_recognition```  
 
 이곳에 기재되지 않은 라이브러리 이외에 추가적으로 라이브러리가 필요하다는 경고문이 보인다면 해당 라이브러리를 추가로 설치해주시기 바랍니다.
 
