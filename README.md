@@ -43,7 +43,11 @@ p.s. 본 프로젝트를 위한 별도의 가상환경을 생성하신 후에 �
 ### Inference with pretrained Model
 1. Code > Download Zip 를 통해 본 프로젝트를 다운받아주시기 바랍니다.
 
-2. 가상환경에서 본 프로젝트가 다운로드 된 경로로 이동해주세요.
+2. [이 곳](https://drive.google.com/file/d/1gtIjISjVMBTpxBsnGwrwsWPnSuEAAcFi/view?usp=sharing)을 통해 pre-trained model을 다운 받아주세요
+
+3. 다운받은 model_ds2.pt 파일을 README.md 파일이 있는 경로에 넣어주세요.
+
+4. 가상환경에서 본 프로젝트가 다운로드 된 경로로 이동해주세요.
 
 * Command
 ```
