@@ -33,7 +33,7 @@ Torch: You can install from [here](https://pytorch.org/get-started/locally/) to 
 Torchaudio: ```pip install torchaudio```  
 Matplotlib: ```pip install matplotlib```  
 Librosa: ```conda install -c conda-forge librosa```  
-Speech_recognition: ```pip install speech_recognition```  
+Speech_recognition: ```conda install -c conda-forge speechrecognition```  
 
 이곳에 기재되지 않은 라이브러리 이외에 추가적으로 라이브러리가 필요하다는 경고문이 보인다면 해당 라이브러리를 추가로 설치해주시기 바랍니다.
 
