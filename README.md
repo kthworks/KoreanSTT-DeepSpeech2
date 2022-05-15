@@ -14,16 +14,16 @@ Speech to Text (STT)와 관련한 모든 전처리, 모델, 학습 등은 [sooft
 
 ## 2. Pre-trained Model
 
-**Model**: DeepSpeech2
-**Dataset**: KsponSpeech
+**Model**: DeepSpeech2  
+**Dataset**: KsponSpeech  
 
-**Training**
-GPU : RTX 3080ti
-CPU : intel i9-12900k
-Time cost : About 6.5 hours per an Epoch (Total 13 Epoch)
+**Training**  
+GPU : RTX 3080ti  
+CPU : intel i9-12900k  
+Time cost : About 6.5 hours per an Epoch (Total 13 Epoch)  
 
-**Performance**
-CER : 0.2536
+**Performance**  
+CER : 0.2536  
 
 ## 3. How to use?
 
@@ -68,5 +68,5 @@ jupyter notebook을 통해 main.ipynb 파일을 실행하시면 입력된 음성
 
 본 프로젝트와 관련한 이슈나 문의 사항이 있다면 아래를 통해 연락주시면 감사하겠습니다.
 
-Author: Taehyoung Kim @kthworks
+Author: Taehyoung Kim @kthworks  
 Author e-mail: kthwork9934@gmail.com
