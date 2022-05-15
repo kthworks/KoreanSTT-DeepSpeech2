@@ -27,7 +27,7 @@ CER : 0.2536
 
 ## 3. How to use?
 
-#### Prerequisites
+### Prerequisites
 Numpy: ```pip install numpy```  
 Torch: You can install from [here](https://pytorch.org/get-started/locally/) to suit your environment.    
 Torchaudio: ```pip install torchaudio==0.6.0```  
@@ -39,7 +39,7 @@ Speech_recognition: ```pip install speech_recognition```
 
 p.s. 본 프로젝트를 위한 별도의 가상환경을 생성하신 후에 위의 라이브러리들을 설치하시길 권장드립니다.
 
-#### Inference with pretrained Model
+### Inference with pretrained Model
 1. Code > Download Zip 를 통해 본 프로젝트를 다운받아주시기 바랍니다.
 
 2. 가상환경에서 본 프로젝트가 다운로드 된 경로로 이동해주세요.
